@@ -1,5 +1,5 @@
 # online-library-website
-group project <br>
+group 7's project <br>
 Members:
 - Lương Thuận Thiên
 - Võ Hoàng Huy
