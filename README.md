@@ -1,4 +1,4 @@
-# online-library-website
+# Landing-Page-Hackathon_online-library-website
 group 7's project <br>
 Members:
 - Lương Thuận Thiên
