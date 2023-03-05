@@ -22,3 +22,4 @@ $(document).on('click', 'a[href^="#"]', function(e) {
         scrollTop: $($.attr(this, 'href')).offset().top
     }, 500);
 });
+
