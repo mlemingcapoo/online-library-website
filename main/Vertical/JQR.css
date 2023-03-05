@@ -232,6 +232,7 @@ body .options {
   max-width: 900px;
   width: calc(100% - 100px);
   height: 400px;
+  transform: translateX(18%);
 }
 @media screen and (max-width: 1200px) {
   body .options {
